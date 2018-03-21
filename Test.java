@@ -7,7 +7,7 @@ int n;
 Scanner sc=newScanner(System.in);
 System.out.print("Enter the integer number":);
 n=sc.next Int();
-if(num>0)
+if(n>0)
 {
  System.out.println(number +"is POSITIVE NUMBER");
 else if(n<0)
