@@ -31,7 +31,7 @@ do
    
 	
 	# git fetch develop && git checkout -b "test_auto" "develop"
-	git push -u $i main
+	git push -u $j main
 
 	echo "Done "
 done
