@@ -17,7 +17,7 @@ array=(
 git init
 git checkout "main"
 git add .
-git commit -m "added file"
+git commit -m "added---file"
 
 for i in "${array[@]}"
 do
